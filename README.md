@@ -1,18 +1,44 @@
-# pozerah
+# Pozerah 📸
 
-A new Flutter project.
+**Recreate the pose. Capture the moment.**
 
-## Getting Started
+Pozerah is a camera pose-reference application built with Flutter. It helps photographers, content creators, and photography enthusiasts recreate poses and compositions by overlaying reference images directly onto a live camera preview.
 
-This project is a starting point for a Flutter application.
+Instead of constantly switching between a reference photo and the camera, Pozerah lets you align your subject with the reference image in real time.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- **Reference Image Import** – Select reference images from your photo gallery.
+- **Adjustable Opacity** – Control the transparency of the reference overlay.
+- **Drag & Position** – Move the reference image to align your composition.
+- **Pinch to Zoom** – Resize the reference image.
+- **Rotate & Flip** – Adjust image orientation.
+- **Grid Overlay** – Use alignment guides for better composition.
+- **Lock Controls** – Lock the reference image to prevent accidental movement.
+- **Camera Capture** – Capture photos using the live camera preview.
+- **Photo Saving** – Save captured photographs to your device.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# pozerah
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Camera Plugin
+- Image Picker
+- Gal (photo gallery integration)
+
+## 📱 Platforms
+
+- iOS
+- Android (planned / in development)
+
+## 🎯 Project Goal
+
+The goal of Pozerah is to make pose recreation and photographic composition easier by combining reference images with a live camera experience in one simple workspace.
+
+## 🚀 Development Status
+
+Pozerah is an actively developed personal project. Features and platform support may evolve over time.
+
+## 📄 License
+
+License information will be added.
